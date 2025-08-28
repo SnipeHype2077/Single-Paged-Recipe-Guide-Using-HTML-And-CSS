@@ -8,6 +8,7 @@ body{
     width: 600px;
     padding: 20px;
     border-radius: 20px;
+    margin: 0 auto;
     margin-left: 17cm;
     margin-top: 2cm;
 }
@@ -53,4 +54,5 @@ span{
 }
 .attribution{
     margin-bottom: 3cm;
+
 }
